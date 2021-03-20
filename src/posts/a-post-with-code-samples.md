@@ -1,6 +1,7 @@
 ---
-title: A post with code samples
-date: '2019-06-18'
+title: "A post with code samples: Updated"
+metaDesc: This is the description
+date: 2019-06-18
 tags:
   - demo-content
   - code
